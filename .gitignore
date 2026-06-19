@@ -1,0 +1,42 @@
+# Yoga Booking Platform
+
+A complete full-stack yoga booking and management platform built with modern web technologies.
+
+## Quick Start
+
+### 1. Backend
+```bash
+cd server
+npm install
+# Create .env file with MongoDB connection
+npm run dev
+```
+
+### 2. Frontend
+```bash
+cd client
+npm install
+npm start
+```
+
+## Features
+
+- 🧘 Service browsing and booking
+- 👥 Trainer profiles with ratings
+- 📅 Multi-step booking wizard
+- 📊 Admin dashboard
+- 💳 Booking management
+- 📱 Fully responsive design
+
+## Stack
+
+- **Frontend**: React, Axios
+- **Backend**: Express.js, Node.js
+- **Database**: MongoDB with Mongoose
+- **Styling**: CSS3
+
+## Deployment
+
+Both frontend and backend can be deployed to cloud platforms:
+- Backend: Heroku, Railway, Render
+- Frontend: Vercel, Netlify, AWS Amplify
